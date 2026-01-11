@@ -1,5 +1,1 @@
-Project notes - draft v1
-Todo: add more details
-Feature X: add UI notes
-Feature Y: add API notes
-Feature X: add UI notes
+v0 notes
